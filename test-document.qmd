@@ -8,5 +8,5 @@ editor: visual
 Here is some code.
 
 ```{r}
-library(tidyverse)
+library(tidyverse) # reading in a package
 ```
